@@ -1,2 +1,2 @@
 # javascripting
-Learn JavaScript or die trying
+Practicing JS with the help of @serabe and a couple of books
