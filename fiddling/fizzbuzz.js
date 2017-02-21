@@ -1,3 +1,8 @@
+/* Classic FizzBuzz exercise
+Print all numbers between 1 and 100, replacing multiples of 3 with "fizz",
+multiples of 5 with "buzz", and multiples of 3 and 5 with "fizzbuzz".
+*/
+
 var i;
 var state;
 

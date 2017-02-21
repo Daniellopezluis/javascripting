@@ -1,3 +1,5 @@
+/*Print a size by size 'chess board' with "#" and " " characters
+*/
 var a = "";
 size = 10;
 
